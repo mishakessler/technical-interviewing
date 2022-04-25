@@ -35,6 +35,18 @@ Questions are organized by category (technical versus behavioral) and type (whit
 
 <details><summary>Name and discuss the 5 key constraints (and optional 6th) in RESTful architecture.</summary>
 
+**Uniform Interface**
+
+**Client-Server Independence**
+
+**Stateless Interactions**
+
+**Cacheable Data**
+
+**Layered Architecture**
+
+Optional: **Code On Demand**
+
 </details>
 
 ## HTML
